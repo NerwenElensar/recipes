@@ -1,6 +1,6 @@
 # The Recipes Project 🥘
 
-A collection of some easy recipes. This Website contains of one main page and links to a few other pages, which will have delicious recipes.
+A collection of some easy recipes. This Website contains one main page and links to a few other pages, which will have delicious recipes.
 
 ## Learning outcome 💻
 
