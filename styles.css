@@ -1,0 +1,22 @@
+* {
+  background-color: peachpuff;
+  text-align: start;
+}
+
+h1 {
+  font-family: "Copperplate", fantasy;
+}
+
+h3 {
+  color: rgb(75, 104, 93);
+}
+
+.description-text {
+  font-family: "Monaco", monospace;
+}
+
+.recipe-link {
+  font-family: "Brush Script MT", cursive;
+  font-weight: bolder;
+  font-size: 35px;
+}
